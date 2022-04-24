@@ -5,7 +5,33 @@ html{
 }
 h1{
     opacity:85%;
+    font-size:1.3rem;
+    letter-spacing:.5px;
 }
 h2{
+    margin:-5px 0;
     opacity:65%;
+    font-size:1.2rem;
+}
+section{
+    margin:5em 0;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+}
+#buttons{
+    margin:2em 0;
+}
+#buttons a{
+    text-decoration:none;
+    color:#fff;
+    background-color:#E2062C;
+    font-weight:600;
+    padding:8px 15px;
+    margin:0 5px;
+    border-radius:3px;
+}
+#buttons a:hover{
+    background-color:#c41c38;
 }
