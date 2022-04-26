@@ -1,0 +1,2 @@
+// Template *[version]: comment - github link*
+[1.0.0]: Produced temporary site and pushed to live - https://github.com/wclarkey/will.net/compare/1.0.0...1.0.0
